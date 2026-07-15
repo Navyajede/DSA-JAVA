@@ -1,3 +1,4 @@
+package arrays;
 public class Day1 {
     public static void main(String[] args) {
         //linear search

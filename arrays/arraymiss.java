@@ -1,3 +1,4 @@
+package arrays;
 import java.util.Scanner;
 /**
  * arraymiss
@@ -20,6 +21,7 @@ public class arraymiss {
         int expectedsum=(n+1)*(n+2)/2;
         int miss = expectedsum-sum;
         System.out.println(miss);
+        
 
 
     }

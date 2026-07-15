@@ -1,3 +1,4 @@
+package arrays;
 public class arraysearch {
     public static void main(String[] args) {
         int[] arr = {10,30,45,5,65};

@@ -1,3 +1,4 @@
+package arrays;
 public class secmaxinarray {
     public static void main(String[] args) {
         int[] arr = {10,30,657,677,677};

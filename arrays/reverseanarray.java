@@ -1,3 +1,4 @@
+package arrays;
 public abstract class reverseanarray {
     public static void main(String[] args) {
         int[] arr = {10,20,40,42,53};
